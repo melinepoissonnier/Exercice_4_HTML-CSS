@@ -1,0 +1,17 @@
+
+.p{
+background-color: orange;
+}
+div{
+background-color: blue;
+}
+.P1,.P2,.P3{
+    background-color: yellow;
+}
+.P2{
+    margin:40px ;
+}
+.P3{
+    padding:40px;
+}
+
